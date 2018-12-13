@@ -1,0 +1,15 @@
+
+
+body{
+        /*background :red;*/
+         /*border-color:black;*/
+          border:1px dashed purple;
+
+    }
+
+#special{
+	color: pink;
+}
+.Hero{
+	color: blue;
+}
